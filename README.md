@@ -33,7 +33,7 @@ By shifting the participants' reading strategy from word-by-word reading to chun
    2. Install the required dependencies:
    ```pip install -r requirements.txt```
    3. Now that the Python environment is set up, you can run the project locally:
-   ```python app.py```
+   ```python main.py```
    4. If you see the following message, please open the URL in your browser:
 ```
  * Serving Flask app 'app'
