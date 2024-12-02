@@ -29,15 +29,12 @@ By shifting the participants' reading strategy from word-by-word reading to chun
  - Python
 
    1. Install Python3 into your PC:
-[Python.org](https://www.python.org/downloads/)
-
-2. Install the required dependencies:
-```pip install -r requirements.txt```
-
-3. Now that the Python environment is set up, you can run the project locally:
-```python app.py```
-
-4. If you see the following message, please open the URL in your browser:
+   [Python.org](https://www.python.org/downloads/)
+   2. Install the required dependencies:
+   ```pip install -r requirements.txt```
+   3. Now that the Python environment is set up, you can run the project locally:
+   ```python app.py```
+   4. If you see the following message, please open the URL in your browser:
 ```
  * Serving Flask app 'app'
  * Debug mode: off
