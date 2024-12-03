@@ -42,7 +42,7 @@ Press CTRL+C to quit
 ```
 
 ### Reading text
- - Place a backslash (\\) at the beginning and end of the chunk you have selected, excluding the start and end of the sentence.
+ - Place a backslash ( \\ ) at the beginning and end of the chunk you have selected, excluding the start and end of the sentence.
  - See sample_text.txt.
 
 ### Interface
