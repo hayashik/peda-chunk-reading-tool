@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 if (index < splitText.length) {
                     textContainer.innerText = splitText[index].trim();
                     index++;
-                    setTimeout(displayNextPart, 3000); // 3秒ごとに表示
+                    setTimeout(displayNextPart, 3000);
                 }
             };
 
