@@ -13,8 +13,6 @@ By shifting the participants' reading strategy from word-by-word reading to chun
 
 ### Installation
 
-
-
 **Prerequisites:**
  - Python 3.10.6
  - flask >= 2.3.2
@@ -42,3 +40,13 @@ WARNING: This is a development server. Do not use it in a production deployment.
  * Running on http://127.0.0.1:8080
 Press CTRL+C to quit
 ```
+
+### Reading text
+ - Place a backslash (\) at the beginning and end of the chunk you have selected, excluding the start and end of the sentence.
+ - See sample_text.txt.
+
+### Interface
+ - Use the button below to read the text file.
+ - "Display duration:" Set the interval for each chunk to appear in seconds.
+ - "Maximum number of display lines:" Set number of lines are displayed. The top line will no longer be displayed.
+ - "Font size:" Set font size
