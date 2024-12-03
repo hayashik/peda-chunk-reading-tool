@@ -20,10 +20,10 @@ By shifting the participants' reading strategy from word-by-word reading to chun
 
 **Code:**
  - Clone the repository to your local machine:
- - [Learn Git with tutorials]([https://platform.openai.com/api-keys](https://www.atlassian.com/git))
+ - [Learn Git with tutorials](https://www.atlassian.com/git))
 
 ### Running Locally
- - Run exe file in your local Windows.
+ - Run [exe](https://github.com/hayashik/peda-chunk-reading-tool/releases/tag/1.0.0) file in your local Windows.
  - Python
 
    1. Install Python3 into your PC:
