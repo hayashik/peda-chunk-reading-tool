@@ -20,7 +20,7 @@ By shifting the participants' reading strategy from word-by-word reading to chun
 
 **Code:**
  - Clone the repository to your local machine:
- - [Learn Git with tutorials](https://www.atlassian.com/git))
+ - [Learn Git with tutorials](https://www.atlassian.com/git)
 
 ### Running Locally
  - Run [exe](https://github.com/hayashik/peda-chunk-reading-tool/releases/tag/1.0.0) file in your local Windows.
@@ -42,7 +42,7 @@ Press CTRL+C to quit
 ```
 
 ### Reading text
- - Place a backslash (\) at the beginning and end of the chunk you have selected, excluding the start and end of the sentence.
+ - Place a backslash (\\) at the beginning and end of the chunk you have selected, excluding the start and end of the sentence.
  - See sample_text.txt.
 
 ### Interface
